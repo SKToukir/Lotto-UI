@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "154780636722",
+    "project_id": "lotto-template-995d9",
+    "storage_bucket": "lotto-template-995d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154780636722:android:ed322a61613df7e5ff4e2b",
+        "android_client_info": {
+          "package_name": "com.dusyturule.chudjan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154780636722-j7v0scmd2u15b1tqeclujg7342sscjq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dusyturule.chudjan",
+            "certificate_hash": "0d2bda36760886d693294323f852b79c122553f8"
+          }
+        },
+        {
+          "client_id": "154780636722-7ee7g2gkescl17qv4p1mk493j97m5gfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1uHITwmcdwEJkD9W0LXDZoo14NDOhbyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154780636722-7ee7g2gkescl17qv4p1mk493j97m5gfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
